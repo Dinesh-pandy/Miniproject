@@ -1,0 +1,74 @@
+.contact-us-container {
+  padding: 80px 30px 70px 30px;
+  /* margin: 0px 0px 0px 0px; */
+  width: 400px;
+  margin: 0 auto;
+  background-color: transparent;
+  border-radius: 5px;
+}
+
+@media screen and (min-width: 600px) {
+  .contact-us-container {
+    padding: 10px 0px 20px 10px;
+  }
+}
+
+
+.head {
+  margin-left: 80px;
+}
+
+.hole {
+  /* background-image: url("D:\Industrial Training\Mini-Project\Req\CC.jpg"); */
+  height: 90%;
+  margin-right: 0%;
+}
+
+.contact-us-container h1 {
+  text-align: center;
+  margin-right: 55px;
+}
+
+.form-group {
+  margin-bottom: 10px;
+}
+
+.cl1 {
+  font-weight: 500;
+  display: block;
+  margin-bottom: 5px;
+}
+
+.ci1 {
+  height: 40px;
+  width: 350px;
+  border: 1px solid;
+  color: #6a3818;
+  border-radius: 10px;
+  padding: 10px 0px 10px 20px;
+}
+
+.ci1,
+textarea {
+  width: 103%;
+  padding: 35px;
+  font-size: 16px;
+  border-radius: 3px;
+  border: 1px solid #ccc;
+}
+
+.b1 {
+  width: 50%;
+  margin-left: 90px;
+  padding: 10px;
+  font-size: 16px;
+  background-color: rgb(206, 39, 6);
+  color: #fff;
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+}
+
+.b1:hover {
+  background-color: #ff0303;
+}

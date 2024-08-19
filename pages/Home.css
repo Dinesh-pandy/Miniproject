@@ -1,0 +1,76 @@
+.homeSlide h1 {
+  font-family: sans-serif;
+  font-size: 45px;
+  line-height: 55px;
+  margin: 50px 0 20px 0;
+}
+
+.homeSlide p {
+  margin: 20px 0;
+}
+
+.homeSlide ul {
+  position: absolute;
+  bottom: 20px;
+  padding-left: 580px;
+  margin-bottom: 300px;
+}
+
+.homeSlide ul li {
+  border: 2px solid #b8b7b7;
+  border-radius: 50%;
+  padding: 10px;
+}
+
+.homeSlide ul li button {
+  background: transparent !important;
+  color: transparent !important;
+}
+
+.homeSlide ul li button::before {
+  font-size: 15px !important;
+  color: #0f3460;
+  position: absolute;
+  top: 2px;
+  left: 0;
+  margin: auto;
+
+}
+
+.pro-week {
+  /* background-image: url("https://mixkit.imgix.net/videos/preview/mixkit-drops-of-gold-glitter-31578-0.jpg?q=80&auto=format%2Ccompress"); */
+  background-color: azure;
+}
+
+.pow {
+  font-size: xx-large;
+  font-weight: bolder;
+  padding: 20px 0px 0px 0px;
+  text-align: center;
+
+}
+
+.pow-title {
+  /* color: aliceblue; */
+  font-weight: bolder;
+  text-align: center;
+}
+
+.pow-img {
+  height: 450px;
+  background: transparent;
+  background-color: transparent;
+  padding: 20px 0px 0px 0px;
+}
+
+.pow-des {
+  /* color: aliceblue; */
+  font-size: 18px;
+  width: 50%;
+  text-align: center;
+  justify-content: center;
+}
+
+.top-home {
+  height: 450px;
+}

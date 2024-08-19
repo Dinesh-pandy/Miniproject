@@ -1,0 +1,28 @@
+.f{
+    /* margin-bottom: 450px; */
+    padding-top:90px;
+    font-weight: bolder;
+    /* font-size: larger; */
+}
+/* .g{
+    margin-bottom: 450px;
+    padding-right: 50px;
+    padding-left: -15px;
+    font-size: x-large;
+} */
+.h{
+    padding-right: 50px;
+    padding-left: 50px;
+    /* margin-bottom: 450px; */
+    text-align: justify;
+    font-size: larger;
+}
+
+.service{
+    font-weight: bold;
+    padding-right: 50px;
+    padding-left: 50px;
+    /* margin-bottom: 450px; */
+    text-align: justify;
+    font-size: larger;
+}

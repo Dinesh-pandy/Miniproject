@@ -1,0 +1,11 @@
+.c {
+    padding-top: 90px;
+    font-weight: bolder;
+}
+
+.d {
+    padding-right: 50px;
+    padding-left: 50px;
+    text-align: justify;
+    font-size: larger;
+}
